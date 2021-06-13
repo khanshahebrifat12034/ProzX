@@ -1,0 +1,14 @@
+.HEADER{
+    color: white;
+    font-size: 35px;
+    font-weight: 600;
+    margin: auto;
+    text-align: center;
+    padding-top: 80px;
+}
+.text-2xl font-medium title-font mb-4 text-white{
+    font-size: 70px;
+}
+a{
+    cursor: pointer;
+}
